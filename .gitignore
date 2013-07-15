@@ -1,0 +1,4 @@
+build/
+venv-tdf
+/*.txt
+/*.csv
