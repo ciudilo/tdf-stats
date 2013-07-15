@@ -2,3 +2,4 @@ build/
 venv-tdf
 /*.txt
 /*.csv
+website/data
